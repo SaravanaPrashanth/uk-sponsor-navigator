@@ -26,7 +26,7 @@ The project follows a **Medallion Architecture** (Bronze, Silver, Gold) to trans
 
 ### Setup & Installation
 1. **Clone the repo:**
-   `git clone https://github.com/your-username/uk-visa-sponsor-tracker.git`
+   `git clone https://github.com/SaravanaPrashanth/uk-sponsor-navigator.git`
 2. **Setup Environment:**
    Create a `.env` file with your Snowflake credentials (User, Password, Account, Warehouse, Database, Schema).
 3. **Run Pipeline:**
