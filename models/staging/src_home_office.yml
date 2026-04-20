@@ -1,0 +1,9 @@
+sources:
+  - name: raw_data
+    database: UK_SPONSOR_NAVIGATOR
+    schema: BRONZE
+    tables:
+      - name: HOME_OFFICE_SPONSORS
+        description: Raw home office companies data
+        config: 
+          loaded_at_field: _INGESTED_AT 
